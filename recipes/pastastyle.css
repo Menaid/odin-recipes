@@ -1,0 +1,29 @@
+#back {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+.center-text {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.ul-list {
+    padding-bottom: 20px;
+}
+
+.ol-list {
+    padding-bottom: 20px;
+}
+
+.space {
+    
+    line-height: 25px;
+}
+
+body {
+    background-color: antiquewhite;
+     }
